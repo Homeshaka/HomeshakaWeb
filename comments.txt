@@ -1,0 +1,2353 @@
+=======================index===============
+
+
+
+<!-- <div class="row"> -->
+				<!-- single-features -->
+				
+				<!-- <div class="col-lg-6 col-sm-6 col-md-6">
+					<div class="single-service">
+						<div class="service-icon">
+							
+							<img class="" src="img/graphics/index/communityicon.png" alt="">
+							
+						</div>
+						<div class="service-content">
+							<h2>Community Management</h2>
+							<p style="padding-bottom: 5%;">Share Notices and updates, receive payments, resolve complaints, collect opinions 
+								and feedback, and so much more to keep the community up and running in full form
+								 without any hassle at all. It’s not just great for the residents but for the
+								  Management Committee too! With the new COVID management features, the app is
+								   all set to help curb the spread of COVID-19 in the community too.
+                              
+							</p>
+							
+							<a href="community-management.html" class="primary-btn">Know More</a>
+								
+						</div>
+					</div>
+					
+				</div> -->
+				<!-- single-features -->
+				<!-- <div class="col-lg-6 col-sm-6 col-md-6">
+					<div class="single-service">
+						<div class="service-icon">
+							<img class="" src="img/graphics/index/securityicon.png" alt="">
+						</div>
+						<div class="service-content">
+							<h2>Security Management</h2>
+							<p style="padding-bottom: 5%;" >Ensure that every person, package or vehicle entering the community is authorised by a resident.
+								 Effective security measures can be convenient too!
+
+							</p>
+							
+							<a href="security-management.html" class="primary-btn">Know More</a>
+								
+						</div>
+					</div>
+				</div> -->
+				
+            <!-- </div> -->
+			
+			<!-- <br> 	<a href="features.html" class="primary-btn">Learn More</a> -->
+
+            	<!-- <div class="row"> -->
+						<!-- single-features -->
+						
+						<!-- <div class="col-lg-3 col-sm-6 col-md-6">
+							<div class="single-service">
+								<div class="service-icon">
+									<img src="img/service/shape1.png" alt="">
+									<img class="s-icon" src="img/service/icon1.png" alt="">
+									<img class="clr-icon" src="img/service/clr-icon1.png" alt="">
+								</div>
+								<div class="service-content">
+									<h4>Security Management</h4>
+									<p>HomeShakha ensures that only visitors, delivery 
+										executives and daily staff approved by residents gain access to the premises..</p>
+								</div>
+							</div>
+						</div> -->
+						<!-- single-features -->
+						<!-- <div class="col-lg-3 offset-lg-1 col-sm-6 col-md-6">
+							<div class="single-service">
+								<div class="service-icon">
+									<img src="img/service/shape1.png" alt="">
+									<img class="s-icon" src="img/service/icon2.png" alt="">
+									<img class="clr-icon" src="img/service/clr-icon2.png" alt="">
+								</div>
+								<div class="service-content">
+									<h4>Society Management</h4>
+									<p>Our ERP module helps communities run seamlessly.
+										 It automates a number of manual processes..</p>
+								</div>
+							</div>
+						</div> -->
+						<!-- single-features -->
+						<!-- <div class="col-lg-3 offset-lg-1 col-sm-6 col-md-6">
+							<div class="single-service">
+								<div class="service-icon">
+									<img src="img/service/shape1.png" alt="">
+									<img class="s-icon" src="img/service/icon3.png" alt="">
+									<img class="clr-icon" src="img/service/clr-icon3.png" alt="">
+								</div>
+								<div class="service-content">
+									<h4>Home Management</h4>
+									<p>It helps you connect with the vendors services ranging from Personal - to - Home Care.</p>
+								</div>
+							</div>
+						</div> -->
+			<!--================ Start Team Area =================-->
+  <!--	<section class="team-area">
+		<div class="container">
+			<div class="owl-carousel active-team-carusel">
+			
+				 
+				<div class="row align-items-center single-item">
+					<div class="col-lg-6 col-md-6">
+						<div class="team-left">
+							<img class="img-fluid" src="img/team1.jpg" alt="">
+							<div class="member-desc d-flex justify-content-between align-items-center">
+								<div class="m-title">
+									<h4>R.Mohan</h4>
+									<p>Industrial engineer</p>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5 offset-lg-1 col-md-6 team-right">
+						<h1>Our <br>
+							Team</h1>
+						<p>
+							Very good app for gated communities, I love the feature 
+							of tracking the house maid once she enters the apartment...happy customer.
+						</p>
+						
+					</div>
+				</div>
+				
+				
+				<div class="row align-items-center single-item">
+					<div class="col-lg-6 col-md-6">
+						<div class="team-left">
+							<img class="img-fluid" src="img/team1.jpg" alt="">
+							<div class="member-desc d-flex justify-content-between align-items-center">
+								<div class="m-title">
+									<h4>Mrs. Molina</h4>
+									<p>Software engineer</p>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5 offset-lg-1 col-md-6 team-right">
+						<h1>Our <br>
+							Team</h1>
+						<p>
+							Very good security app to cover gated communities, happy customer
+						</p>
+						
+					</div>
+				</div>
+				
+				<div class="row align-items-center single-item">
+					<div class="col-lg-6 col-md-6">
+						<div class="team-left">
+							<img class="img-fluid" src="img/team1.jpg" alt="">
+							<div class="member-desc d-flex justify-content-between align-items-center">
+								<div class="m-title">
+									<h4>Mr. Vinod</h4>
+									<p>IT Developer</p>
+								</div>
+								
+							</div>
+						</div>
+					</div>
+					<div class="col-lg-5 offset-lg-1 col-md-6 team-right">
+						<h1>Our <br>
+							Team</h1>
+						<p>
+							Nice to have HomeShakha in my gated community, very secured
+						</p>
+						
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--================ End Team Area =================-->
+
+
+	
+
+	<!--================ Start Testimonial Area =================-->
+	<!-- <section class="testimonial-area section-gap">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Testimonial</span></h1>
+					</div>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-lg-8 text-center">
+					<div class="owl-carousel active-testi-carousel"> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Martand Sidhu</h6>
+									<p>App Developer</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Ms. Tanmaya Paveljit</h6>
+									<p>Software Engineer</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Mr. Abhirup Swagato</h6>
+									<p>IT engineer</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Mr. Uddhav Parag</h6>
+									<p>App Developer</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Marvel Maison</h6>
+									<p>Software Developer</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Testimonial Area =================-->
+
+	<!--================ Start Brand Area =================-->
+	<!-- <section class="brand-area">
+		<div class="container-fluid">
+			<div class="row justify-content-start">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Happy</span> Clients </h1>
+					</div>
+				</div>
+				<div class="col-lg-6">	
+					<div class="brand-carousel owl-carousel "> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/b1.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/b2.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/b3.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/b4.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/b1.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/b2.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/b3.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/b4.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/b1.png" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Brand Area =================-->
+
+    	<!--================ Start Blog Area =================-->
+	<!-- <section class="blog-area section-gap">
+		<div class="container">
+			<div class="row align-items-end justify-content-center">
+				<div class="col-lg-5 col-md-12 text-left">
+					<div class="section-title">
+						<h1>Latest Posts<br> From Our Blog</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+							magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+					</div>
+				</div>
+				<div class="col-lg-5 col-md-12 offset-lg-2 text-right">
+					<div class="blog-btn">
+						<a href="blog.html" class="primary-btn">View all Posts</a>
+					</div>
+				</div>
+			</div>
+			<div class="row blog-inner justify-content-center"> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog1.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog2.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog3.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Blog Area =================-->
+
+
+    =====================ABOUT PAGE======================
+    <!-- <div class="counter_area" id="project_counter"> -->
+						<!-- single counter -->
+						<!-- <div class="single_counter">
+							<div class="info-content"> -->
+								<!-- <h4><span class="counter">500</span>+</h4> -->
+								<!-- <p>Qualified Lawyer</p>
+							</div>
+						</div> -->
+						<!-- single counter -->
+						<!-- <div class="single_counter">
+							<div class="info-content"> -->
+								<!-- <h4><span class="counter">20,650</span>+</h4> -->
+								<!-- <p>Solved Cases</p>
+							</div>
+						</div> -->
+						<!-- single counter -->
+						<!-- <div class="single_counter">
+							<div class="info-content"> -->
+								<!-- <h4><span class="counter">2.5</span>k+</h4> -->
+								<!-- <p>Trusted Clients</p>
+							</div>
+						</div> -->
+						<!-- single counter -->
+						<!-- <div class="single_counter">
+							<div class="info-content"> -->
+								<!-- <h4><span class="counter">50</span>+</h4> -->
+								<!-- <p>Achievements</p>
+							</div>
+						</div>
+					</div> -->
+
+                    <!--================ Start Testimonial Area =================-->
+<!-- <section class="testimonial-area section-gap"> -->
+	<!-- <div class="container">
+		<div class="row justify-content-center">
+			<div class="col-lg-10 text-center">
+				<div class="section-title">
+					
+					<h1>We Are <span>Rest'O'Fort.</span> What Restaurants<br> <span>like us</span> About.</h1>
+				</div>
+			</div>
+		</div>
+		<div class="row justify-content-center">
+			<div class="col-lg-8 text-center">
+				<div class="owl-carousel active-testi-carousel"> -->
+					<!-- single carousel -->
+					<!-- <div class="single-testi-item">
+						<div class="author-title">
+							<div class="thumb"><img src="img/about-author.png" alt=""></div>
+							<div class="a-desc">
+								<h6>Jio Mart</h6>
+								<p>Chief Executive, Amazon</p>
+							</div>
+						</div>
+						<div class="author-desc">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+								dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+								commodo consequat.</p>
+						</div>
+					</div> -->
+					<!-- single carousel -->
+					<!-- <div class="single-testi-item">
+						<div class="author-title">
+							<div class="thumb"><img src="img/about-author.png" alt=""></div>
+							<div class="a-desc">
+								<h6>Flikart</h6>
+								<p>Chief Executive, Amazon</p>
+							</div>
+						</div>
+						<div class="author-desc">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+								dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+								commodo consequat.</p>
+						</div>
+					</div> -->
+					<!-- single carousel -->
+					<!-- <div class="single-testi-item">
+						<div class="author-title">
+							<div class="thumb"><img src="img/about-author.png" alt=""></div>
+							<div class="a-desc">
+								<h6>Marvel Jack</h6>
+								<p>Chief Executive, Amazon</p>
+							</div>
+						</div>
+						<div class="author-desc">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+								dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+								commodo consequat.</p>
+						</div>
+					</div> -->
+					<!-- single carousel -->
+					<!-- <div class="single-testi-item">
+						<div class="author-title">
+							<div class="thumb"><img src="img/about-author.png" alt=""></div>
+							<div class="a-desc">
+								<h6>XYZ AVB</h6>
+								<p>Chief Executive, Amazon</p>
+							</div>
+						</div>
+						<div class="author-desc">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+								dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+								commodo consequat.</p>
+						</div>
+					</div> -->
+					<!-- single carousel -->
+					<!-- <div class="single-testi-item">
+						<div class="author-title">
+							<div class="thumb"><img src="img/about-author.png" alt=""></div>
+							<div class="a-desc">
+								<h6>Marvel Maison</h6>
+								<p>Chief Executive, FreshWorks</p>
+							</div>
+						</div>
+						<div class="author-desc">
+							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+								dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+								commodo consequat.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section> -->
+
+	<!--================ Start Blog Area =================-->
+	<!-- <section class="blog-area section-gap">
+		<div class="container">
+			<div class="row align-items-end justify-content-center">
+				<div class="col-lg-5 col-md-12 text-left">
+					<div class="section-title">
+						<h1>Latest Posts<br> From Our Blog</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+							magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+					</div>
+				</div>
+				<div class="col-lg-5 col-md-12 offset-lg-2 text-right">
+					<div class="blog-btn">
+						<a href="blog.html" class="primary-btn">View all Posts</a>
+					</div>
+				</div>
+			</div>
+			<div class="row blog-inner justify-content-center"> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog1.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog2.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog3.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Blog Area =================-->
+
+    ======================communication page===================
+    <!--================ Start Service Area =================-->
+
+
+<!-- <section class="service-area section-gap">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-9 text-center">
+					<div class="section-title"> 
+						<h1> <span>Benefits </span> of Communications</h1>
+						
+					</div>
+				</div>
+			</div>
+			<section class=" Sectionslider" style=" width:100%; height: auto 	;
+			">
+				   <div id="slider">  
+					 <div class="slides">  
+					   <div class="container1_abt" >
+								 
+						 <div class="child1_abt"> <br>
+							  <h1>Feedback tool</h1> <br>
+							  <p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vero facilis,
+								 velit nulla doloribus temporibus minima tempora
+								 blanditiis sunt excepturi sequi exercitationem rem iste mollitia 
+								 deleniti totam provident deserunt.</p>
+						 </div>
+						 
+						 <div class="child1_abt1">
+							 <img class="center" src="img/graphics/communication/benefits1.png" height="200px;" width="auto;" alt="" srcset="">
+						  
+						 </div> -->
+					 <!-- <img src="ss1-01.png" width="100%" /> -->
+				   <!-- </div>
+				 </div>
+					 
+					 <div class="slides">  
+					   <div class="container1_abt" >
+								 
+						 <div class="child1_abt"> <br>
+							  <h1> One touch Society updates</h1> <br>
+							  <p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vero facilis,
+								 velit nulla doloribus temporibus minima tempora
+								 blanditiis sunt excepturi sequi exercitationem rem iste mollitia 
+								 deleniti totam provident deserunt.</p>
+						 </div>
+						 
+						 <div class="child1_abt1">
+							 <img class="center" src="img/graphics/communication/benefits2.png"  height="200px;" width="auto;" alt="" srcset="">
+						  
+						 </div> -->
+					 <!-- <img src="ss1-01.png" width="100%" /> -->
+				   <!-- </div>
+				 </div>
+					 
+				 <div class="slides">  
+				   <div class="container1_abt" >
+							 
+					 <div class="child1_abt"> <br>
+						  <h1>Community Engagement </h1> <br>
+						  <p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vero facilis,
+							 velit nulla doloribus temporibus minima tempora
+							 blanditiis sunt excepturi sequi exercitationem rem iste mollitia 
+							 deleniti totam provident deserunt.</p>
+					 </div>
+					 
+					 <div class="child1_abt1">
+						 <img class="center" src="img/graphics/communication/benefits3.png" height="200px;" width="auto;" alt="" srcset="">
+					  
+					 </div> -->
+				 <!-- <img src="ss1-01.png" width="100%" /> -->
+				 <!-- </div>
+				 </div>
+					 
+				 
+					 
+					 <div id="dot"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+					</div>
+				   </section>
+			
+			
+
+			<div class="col-lg-10 text-center">
+
+				<a href="" class="primary-btn">Get Brochure</a>
+
+			</div>
+			
+		</div>
+		
+	</section> -->
+	<!--================ End Service Area =================-->
+    	<!--================ Start CTA Area =================-->
+	<!--
+	<section class="cta-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-12">
+					<h2>Join Our List Of Happy Customers And Start Growing Your Online Business Today</h2>
+					<p>There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s
+						exciting to think about setting up your own viewing station whether that is on the deck</p>
+					<a href="contact.html" class="primary-btn">Sign Up</a>
+				</div>
+				<img src="img/cta-bg-shape.png" alt="" class="cta-shape img-fluid">
+			</div>
+		</div>
+	</section> -->
+	<!--================ End CTA Area =================--> 
+
+		<!--================ Start Blog Area =================-->
+	<!-- <section class="blog-area section-gap">
+		<div class="container">
+			<div class="row align-items-end justify-content-center">
+				<div class="col-lg-5 col-md-12 text-left">
+					<div class="section-title">
+						<h1>Latest Posts<br> From Our Blog</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+							magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+					</div>
+				</div>
+				<div class="col-lg-5 col-md-12 offset-lg-2 text-right">
+					<div class="blog-btn">
+						<a href="blog.html" class="primary-btn">View all Posts</a>
+					</div>
+				</div>
+			</div>
+			<div class="row blog-inner justify-content-center"> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog1.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog2.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog3.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Blog Area =================-->
+
+    =======================community-management===================
+    <!-- <div class="row"> -->
+					<!-- single-features -->
+					
+					<!-- <div class="col-lg-3 col-sm-6 col-md-6">
+						<div class="single-service">
+							<div class="service-icon">
+								<img src="img/service/shape1.png" alt="">
+								<img class="s-icon" src="img/service/icon1.png" alt="">
+								<img class="clr-icon" src="img/service/clr-icon1.png" alt="">
+							</div>
+							<div class="service-content">
+								<h4>Security Management</h4>
+								<p>HomeShakha ensures that only visitors, delivery 
+									executives and daily staff approved by residents gain access to the premises..</p>
+							</div>
+						</div>
+					</div> -->
+					<!-- single-features -->
+					<!-- <div class="col-lg-3 offset-lg-1 col-sm-6 col-md-6">
+						<div class="single-service">
+							<div class="service-icon">
+								<img src="img/service/shape1.png" alt="">
+								<img class="s-icon" src="img/service/icon2.png" alt="">
+								<img class="clr-icon" src="img/service/clr-icon2.png" alt="">
+							</div>
+							<div class="service-content">
+								<h4>Society Management</h4>
+								<p>Our ERP module helps communities run seamlessly.
+									 It automates a number of manual processes..</p>
+							</div>
+						</div>
+					</div> -->
+					<!-- single-features -->
+					<!-- <div class="col-lg-3 offset-lg-1 col-sm-6 col-md-6">
+						<div class="single-service">
+							<div class="service-icon">
+								<img src="img/service/shape1.png" alt="">
+								<img class="s-icon" src="img/service/icon3.png" alt="">
+								<img class="clr-icon" src="img/service/clr-icon3.png" alt="">
+							</div>
+							<div class="service-content">
+								<h4>Home Management</h4>
+								<p>It helps you connect with the vendors services ranging from Personal - to - Home Care.</p>
+							</div>
+						</div>
+					</div> -->
+	
+    ========================community-management==============================
+
+    	<!--================ Start Blog Area =================-->
+	<!-- <section class="blog-area section-gap">
+		<div class="container">
+			<div class="row align-items-end justify-content-center">
+				<div class="col-lg-5 col-md-12 text-left">
+					<div class="section-title">
+						<h1>Latest Posts<br> From Our Blog</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+							magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+					</div>
+				</div>
+				<div class="col-lg-5 col-md-12 offset-lg-2 text-right">
+					<div class="blog-btn">
+						<a href="blog.html" class="primary-btn">View all Posts</a>
+					</div>
+				</div>
+			</div>
+			<div class="row blog-inner justify-content-center"> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog1.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog2.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog3.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Blog Area =================-->
+    ==================================end community-management======================
+
+    ==================covid- management====================
+
+    	<!--================ Start CTA Area =================-->
+	<!--
+	<section class="cta-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-12">
+					<h2>Join Our List Of Happy Customers And Start Growing Your Online Business Today</h2>
+					<p>There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s
+						exciting to think about setting up your own viewing station whether that is on the deck</p>
+					<a href="contact.html" class="primary-btn">Sign Up</a>
+				</div>
+				<img src="img/cta-bg-shape.png" alt="" class="cta-shape img-fluid">
+			</div>
+		</div>
+	</section> -->
+	<!--================ End CTA Area =================--> 
+
+============================end covid-management=========================
+
+==================delivery-management======================
+
+<!--================ Start Service Area =================-->
+
+
+<!-- <section class="service-area section-gap">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-9 text-center">
+					<div class="section-title"> 
+						<h1> <span>Benefits </span> of Delievery - Management</h1>
+						
+					</div>
+				</div>
+			</div>
+			<section class=" Sectionslider" style=" width:100%; height: auto 	;
+			">
+				   <div id="slider">  
+					 <div class="slides">  
+					   <div class="container1_abt" >
+								 
+						 <div class="child1_abt"> <br>
+							  <h1>Accept deliveries from anywhere</h1> <br>
+							  <p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vero facilis,
+								 velit nulla doloribus temporibus minima tempora
+								 blanditiis sunt excepturi sequi exercitationem rem iste mollitia 
+								 deleniti totam provident deserunt.</p>
+						 </div>
+						 
+						 <div class="child1_abt1">
+							 <img class="center" src="img/graphics/delivery/benefits1.png" height="200px;" width="auto;" alt="" srcset="">
+						  
+						 </div> -->
+					 <!-- <img src="ss1-01.png" width="100%" /> -->
+				   <!-- </div>
+				 </div>
+					 
+					 <div class="slides">  
+					   <div class="container1_abt" >
+								 
+						 <div class="child1_abt"> <br>
+							  <h1>Verify delivery executives</h1> <br>
+							  <p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vero facilis,
+								 velit nulla doloribus temporibus minima tempora
+								 blanditiis sunt excepturi sequi exercitationem rem iste mollitia 
+								 deleniti totam provident deserunt.</p>
+						 </div>
+						 
+						 <div class="child1_abt1">
+							 <img class="center" src="img/graphics/delivery/benefits2.png"height="200px;" width="auto;" alt="" srcset="">
+						  
+						 </div> -->
+					 <!-- <img src="ss1-01.png" width="100%" /> -->
+				   <!-- </div>
+				 </div>
+					 
+				 
+					 
+				 
+					 <div id="dot"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+					</div>
+				   </section>
+			
+			
+
+			<div class="col-lg-10 text-center">
+
+				<a href="" class="primary-btn">Get Brochure</a>
+
+			</div>
+			
+		</div>
+		
+	</section> -->
+	<!--================ End Service Area =================-->
+
+	
+	<!--================ Start CTA Area =================-->
+	<!--
+	<section class="cta-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-12">
+					<h2>Join Our List Of Happy Customers And Start Growing Your Online Business Today</h2>
+					<p>There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s
+						exciting to think about setting up your own viewing station whether that is on the deck</p>
+					<a href="contact.html" class="primary-btn">Sign Up</a>
+				</div>
+				<img src="img/cta-bg-shape.png" alt="" class="cta-shape img-fluid">
+			</div>
+		</div>
+	</section> -->
+	<!--================ End CTA Area =================--> 
+
+	
+	<!--================ Start Testimonial Area =================-->
+	<!-- <section class="testimonial-area section-gap">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Happy</span> Clients </h1>
+					</div>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-lg-8 text-center">
+					<div class="owl-carousel active-testi-carousel"> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Jio Mart</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Flikart</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Marvel Jack</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>XYZ AVB</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Marvel Maison</h6>
+									<p>Chief Executive, FreshWorks</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Testimonial Area =================-->
+
+	<!--================ Start Brand Area =================-->
+	<!-- <section class="brand-area">
+		<div class="container-fluid">
+			<div class="row justify-content-start">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Partners</span>  </h1>
+					</div>
+				</div>
+				<div class="col-lg-6">	
+					<div class="brand-carousel owl-carousel "> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C1.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C2.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C4.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C5.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C6.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C7.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C1.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C2.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C4.jpg" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Brand Area =================-->
+
+=================================delivery-management=========================
+
+
+	<!--================ Start Blog Area =================-->
+	<!-- <section class="blog-area section-gap">
+		<div class="container">
+			<div class="row align-items-end justify-content-center">
+				<div class="col-lg-5 col-md-12 text-left">
+					<div class="section-title">
+						<h1>Latest Posts<br> From Our Blog</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+							magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+					</div>
+				</div>
+				<div class="col-lg-5 col-md-12 offset-lg-2 text-right">
+					<div class="blog-btn">
+						<a href="blog.html" class="primary-btn">View all Posts</a>
+					</div>
+				</div>
+			</div>
+			<div class="row blog-inner justify-content-center"> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog1.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog2.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog3.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Blog Area =================-->
+    =========================end-delivery management=====================
+
+    =========================domestic- management=========================
+
+    <!--================ Start Service Area =================-->
+
+
+<!-- <section class="service-area section-gap">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-9 text-center">
+					<div class="section-title"> 
+						<h1> <span>Benefits </span> of Domestic-Management</h1>
+						
+					</div>
+				</div>
+			</div>
+			<section class=" Sectionslider" style=" width:100%; height: auto 	;
+			">
+				   <div id="slider">  
+					 <div class="slides">  
+					   <div class="container1_abt" >
+								 
+						 <div class="child1_abt"> <br> <br> <br>
+							  <h1> Effortlessly find staff</h1> <br> -->
+							  <!-- <p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vero facilis,
+								 velit nulla doloribus temporibus minima tempora
+								 blanditiis sunt excepturi sequi exercitationem rem iste mollitia 
+								 deleniti totam provident deserunt.</p> -->
+						 <!-- </div>
+						 
+						 <div class="child1_abt1">
+							 <img class="center" src="img/graphics/domestic/benefits1.png" height="200px;" width="auto;" alt="" srcset="">
+						  
+						 </div> -->
+					 <!-- <img src="ss1-01.png" width="100%" /> -->
+				   <!-- </div>
+				 </div>
+					 
+					 <div class="slides">  
+					   <div class="container1_abt" >
+								 
+						 <div class="child1_abt"> <br><br> <br>
+							  <h1>Notification on mobile</h1> <br>  -->
+							  <!-- <p>
+								Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vero facilis,
+								 velit nulla doloribus temporibus minima tempora
+								 blanditiis sunt excepturi sequi exercitationem rem iste mollitia 
+								 deleniti totam provident deserunt.</p> -->
+						 <!-- </div>
+						 
+						 <div class="child1_abt1">
+							 <img class="center" src="img/graphics/domestic/benefits2.png" height="200px;" width="auto;" alt="" srcset="">
+						  
+						 </div> -->
+					 <!-- <img src="ss1-01.png" width="100%" /> -->
+				   <!-- </div>
+				 </div>
+					 
+				 <div class="slides">  
+				   <div class="container1_abt" >
+							 
+					 <div class="child1_abt"> <br> <br> <br>
+						  <h1>Easily manage attendance</h1> <br> -->
+						  <!-- <p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vero facilis,
+							 velit nulla doloribus temporibus minima tempora
+							 blanditiis sunt excepturi sequi exercitationem rem iste mollitia 
+							 deleniti totam provident deserunt.</p> -->
+					 <!-- </div>
+					 
+					 <div class="child1_abt1">
+						 <img class="center" src="img/graphics/domestic/benefits3.png" height="200px;" width="auto;" alt="" srcset="">
+					  
+					 </div> -->
+				 <!-- <img src="ss1-01.png" width="100%" /> -->
+				 <!-- </div>
+				 </div>
+					 
+				
+					 
+					 <div id="dot"><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>
+					</div>
+				   </section>
+			
+			
+
+			<div class="col-lg-10 text-center">
+
+				<a href="#getintouch" class="primary-btn">Schedule a DEMO</a>
+
+			</div>
+			
+		</div>
+		
+	</section> -->
+	<!--================ End Service Area =================-->
+
+	
+	<!--================ Start CTA Area =================-->
+	<!--
+	<section class="cta-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-12">
+					<h2>Join Our List Of Happy Customers And Start Growing Your Online Business Today</h2>
+					<p>There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s
+						exciting to think about setting up your own viewing station whether that is on the deck</p>
+					<a href="contact.html" class="primary-btn">Sign Up</a>
+				</div>
+				<img src="img/cta-bg-shape.png" alt="" class="cta-shape img-fluid">
+			</div>
+		</div>
+	</section> -->
+	<!--================ End CTA Area =================--> 
+
+	
+	<!--================ Start Testimonial Area =================-->
+	<!-- <section class="testimonial-area section-gap">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Happy</span> Clients </h1>
+					</div>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-lg-8 text-center">
+					<div class="owl-carousel active-testi-carousel"> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Jio Mart</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Flikart</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Marvel Jack</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>XYZ AVB</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Marvel Maison</h6>
+									<p>Chief Executive, FreshWorks</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Testimonial Area =================-->
+
+	<!--================ Start Brand Area =================-->
+	<!-- <section class="brand-area">
+		<div class="container-fluid">
+			<div class="row justify-content-start">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Partners</span>  </h1>
+					</div>
+				</div>
+				<div class="col-lg-6">	
+					<div class="brand-carousel owl-carousel "> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C1.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C2.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C4.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C5.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C6.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C7.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C1.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C2.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C4.jpg" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Brand Area =================-->
+
+    ===========================end- domestic managemnet=====================
+
+    ========================help-desk=====================================
+
+    	<!--================ Start Testimonial Area =================-->
+	<!-- <section class="testimonial-area section-gap">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Happy</span> Clients </h1>
+					</div>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-lg-8 text-center">
+					<div class="owl-carousel active-testi-carousel"> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Jio Mart</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Flikart</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Marvel Jack</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>XYZ AVB</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Marvel Maison</h6>
+									<p>Chief Executive, FreshWorks</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Testimonial Area =================-->
+
+	<!--================ Start Brand Area =================-->
+	<!-- <section class="brand-area">
+		<div class="container-fluid">
+			<div class="row justify-content-start">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Partners</span>  </h1>
+					</div>
+				</div>
+				<div class="col-lg-6">	
+					<div class="brand-carousel owl-carousel "> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C1.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C2.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C4.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C5.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C6.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C7.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C1.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C2.jpg" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C4.jpg" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Brand Area =================-->
+
+    ==================help-desk end===================================
+    ===========================security-management======================
+
+    <!-- <div class="row"> -->
+					<!-- single-features -->
+					
+					<!-- <div class="col-lg-3 col-sm-6 col-md-6">
+						<div class="single-service">
+							<div class="service-icon">
+								<img src="img/service/shape1.png" alt="">
+								<img class="s-icon" src="img/service/icon1.png" alt="">
+								<img class="clr-icon" src="img/service/clr-icon1.png" alt="">
+							</div>
+							<div class="service-content">
+								<h4>Security Management</h4>
+								<p>HomeShakha ensures that only visitors, delivery 
+									executives and daily staff approved by residents gain access to the premises..</p>
+							</div>
+						</div>
+					</div> -->
+					<!-- single-features -->
+					<!-- <div class="col-lg-3 offset-lg-1 col-sm-6 col-md-6">
+						<div class="single-service">
+							<div class="service-icon">
+								<img src="img/service/shape1.png" alt="">
+								<img class="s-icon" src="img/service/icon2.png" alt="">
+								<img class="clr-icon" src="img/service/clr-icon2.png" alt="">
+							</div>
+							<div class="service-content">
+								<h4>Society Management</h4>
+								<p>Our ERP module helps communities run seamlessly.
+									 It automates a number of manual processes..</p>
+							</div>
+						</div>
+					</div> -->
+					<!-- single-features -->
+					<!-- <div class="col-lg-3 offset-lg-1 col-sm-6 col-md-6">
+
+                    <!--================ Start Testimonial Area =================-->
+	<!-- <section class="testimonial-area section-gap">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1><span>Testimonial</span></h1>
+					</div>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-lg-8 text-center">
+					<div class="owl-carousel active-testi-carousel"> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Martand Sidhu</h6>
+									<p>App Developer</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Ms. Tanmaya Paveljit</h6>
+									<p>Software Engineer</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Mr. Abhirup Swagato</h6>
+									<p>IT engineer</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Mr. Uddhav Parag</h6>
+									<p>App Developer</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div> -->
+						<!-- single carousel -->
+						<!-- <div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Marvel Maison</h6>
+									<p>Software Developer</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Testimonial Area =================-->
+
+	<!--================ Start Brand Area =================-->
+	<!-- <section class="brand-area">
+		<div class="container-fluid"> -->
+			<!-- <div class="row justify-content-start">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Happy</span> Clients </h1>
+					</div>
+				</div> -->
+				<!-- <div class="col-lg-6">	
+					<div class="brand-carousel owl-carousel "> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/b1.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/b2.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/b3.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/b4.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/b1.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/b2.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/b3.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/b4.png" alt="">
+							</div>
+						</div> -->
+						<!-- single-brand -->
+						<!-- <div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/b1.png" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Brand Area =================-->
+
+
+<!--================ Start Blog Area =================-->
+	<!-- <section class="blog-area section-gap">
+		<div class="container">
+			<div class="row align-items-end justify-content-center">
+				<div class="col-lg-5 col-md-12 text-left">
+					<div class="section-title">
+						<h1>Latest Posts<br> From Our Blog</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+							magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+					</div>
+				</div>
+				<div class="col-lg-5 col-md-12 offset-lg-2 text-right">
+					<div class="blog-btn">
+						<a href="blog.html" class="primary-btn">View all Posts</a>
+					</div>
+				</div>
+			</div>
+			<div class="row blog-inner justify-content-center"> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog1.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog2.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog3.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Blog Area =================-->
+
+
+========================end-security-management============================
+
+==========================visitor- management============================
+
+ <!-- <div class="slides">  
+				   <div class="container1_abt" >
+							 
+					 <div class="child1_abt"> <br>
+						  <h1>Heading</h1> <br>
+						  <p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vero facilis,
+							 velit nulla doloribus temporibus minima tempora
+							 blanditiis sunt excepturi sequi exercitationem rem iste mollitia 
+							 deleniti totam provident deserunt.</p>
+					 </div>
+					 
+					 <div class="child1_abt1">
+						 <img class="center" src="img/" alt="" srcset="">
+					  
+					 </div> -->
+				 <!-- <img src="ss1-01.png" width="100%" /> -->
+				 <!-- </div>
+				 </div>
+					 
+				 <div class="slides">  
+				   <div class="container1_abt" >
+							 
+					 <div class="child1_abt"> <br>
+						  <h1>Heading</h1> <br>
+						  <p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ullam est vero facilis,
+							 velit nulla doloribus temporibus minima tempora
+							 blanditiis sunt excepturi sequi exercitationem rem iste mollitia 
+							 deleniti totam provident deserunt.</p>
+					 </div>
+					 
+					 <div class="child1_abt1">
+						 <img class="center" src="img/Visitor/entrypass.png" alt="" srcset="">
+					  
+					 </div> -->
+				 <!-- <img src="ss1-01.png" width="100%" /> -->
+				 <!-- </div>
+				 </div> -->
+					
+                    <!--================ Start CTA Area =================-->
+	<!--
+	<section class="cta-area">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-7 col-md-12">
+					<h2>Join Our List Of Happy Customers And Start Growing Your Online Business Today</h2>
+					<p>There is a moment in the life of any aspiring astronomer that it is time to buy that first telescope. It’s
+						exciting to think about setting up your own viewing station whether that is on the deck</p>
+					<a href="contact.html" class="primary-btn">Sign Up</a>
+				</div>
+				<img src="img/cta-bg-shape.png" alt="" class="cta-shape img-fluid">
+			</div>
+		</div>
+	</section> -->
+	<!--================ End CTA Area =================--> 
+
+    	<!--================ Start Testimonial Area =================-->
+	<section class="testimonial-area section-gap">
+		<div class="container">
+			<div class="row justify-content-center">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Happy</span> Clients </h1>
+					</div>
+				</div>
+			</div>
+			<div class="row justify-content-center">
+				<div class="col-lg-8 text-center">
+					<div class="owl-carousel active-testi-carousel">
+						<!-- single carousel -->
+						<div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Jio Mart</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div>
+						<!-- single carousel -->
+						<div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Flikart</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div>
+						<!-- single carousel -->
+						<div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Marvel Jack</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div>
+						<!-- single carousel -->
+						<div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>XYZ AVB</h6>
+									<p>Chief Executive, Amazon</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div>
+						<!-- single carousel -->
+						<div class="single-testi-item">
+							<div class="author-title">
+								<div class="thumb"><img src="img/about-author.png" alt=""></div>
+								<div class="a-desc">
+									<h6>Marvel Maison</h6>
+									<p>Chief Executive, FreshWorks</p>
+								</div>
+							</div>
+							<div class="author-desc">
+								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
+									dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
+									commodo consequat.</p>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--================ End Testimonial Area =================-->
+
+	<!--================ Start Brand Area =================-->
+	<section class="brand-area">
+		<div class="container-fluid">
+			<div class="row justify-content-start">
+				<div class="col-lg-10 text-center">
+					<div class="section-title">
+						
+						<h1>Our <span>Partners</span>  </h1>
+					</div>
+				</div>
+				<div class="col-lg-6">	
+					<div class="brand-carousel owl-carousel ">
+						<!-- single-brand -->
+						<div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C1.jpg" alt="">
+							</div>
+						</div>
+						<!-- single-brand -->
+						<div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C2.jpg" alt="">
+							</div>
+						</div>
+						<!-- single-brand -->
+						<div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C4.jpg" alt="">
+							</div>
+						</div>
+						<!-- single-brand -->
+						<div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C5.jpg" alt="">
+							</div>
+						</div>
+						<!-- single-brand -->
+						<div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C6.jpg" alt="">
+							</div>
+						</div>
+						<!-- single-brand -->
+						<div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C7.jpg" alt="">
+							</div>
+						</div>
+						<!-- single-brand -->
+						<div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C1.jpg" alt="">
+							</div>
+						</div>
+						<!-- single-brand -->
+						<div class="single-brand-item d-table df-height">
+							<div class="d-table-cell">
+								<img src="img/brands/C2.jpg" alt="">
+							</div>
+						</div>
+						<!-- single-brand -->
+						<div class="single-brand-item d-table">
+							<div class="d-table-cell">
+								<img src="img/brands/C4.jpg" alt="">
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!--================ End Brand Area =================-->
+
+    	<!--================ Start Blog Area =================-->
+	<!-- <section class="blog-area section-gap">
+		<div class="container">
+			<div class="row align-items-end justify-content-center">
+				<div class="col-lg-5 col-md-12 text-left">
+					<div class="section-title">
+						<h1>Latest Posts<br> From Our Blog</h1>
+						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore
+							magna aliqua. Ut enim ad minim veniam quis nostrud exercitation.</p>
+					</div>
+				</div>
+				<div class="col-lg-5 col-md-12 offset-lg-2 text-right">
+					<div class="blog-btn">
+						<a href="blog.html" class="primary-btn">View all Posts</a>
+					</div>
+				</div>
+			</div>
+			<div class="row blog-inner justify-content-center"> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog1.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog2.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div> -->
+				<!-- single-blog -->
+				<!-- <div class="col-lg-4 col-md-6 col-sm-6">
+					<div class="single-blog">
+						<div class="blog-thumb">
+							<img class="img-fluid" src="img/blog/h-blog3.jpg" alt="">
+						</div>
+						<div class="blog-details">
+							<div class="blog-meta">
+								<span>25 june, 2018 | By Mark Wiens</span>
+							</div>
+							<h5><a href="single-blog.html">Addiction When Gambling <br>
+									Becomes A Problem</a></h5>
+							<p>Computers have become ubiquitous in almost every facet of our lives. At work, desk jockeys spend hours in
+								front of their desktops.</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<!--================ End Blog Area =================-->
+
+
+========================end- visitor-management=============================
+
+
